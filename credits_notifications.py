@@ -63,7 +63,7 @@ def main():
             credits_history = []
         # sleep for 5 mins
         # (for testing set it for lower number)
-        time.sleep(5 * 600)
+        time.sleep(10 * 60)
     pass
 
 
